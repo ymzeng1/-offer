@@ -6,3 +6,5 @@
 1. head:ListNode (保存首地址)
 2. .item （存储数据）
 3. .next（指向下一节点地址）
+
+参考：https://zhuanlan.zhihu.com/p/60057180

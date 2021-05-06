@@ -27,3 +27,6 @@ class Solution:
             pre = l2
             pre.next = self.mergeTwoLists(l1, l2.next)
         return pre
+
+    
+#循环法

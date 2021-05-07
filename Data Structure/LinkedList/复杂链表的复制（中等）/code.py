@@ -1,6 +1,7 @@
 # 使用哈希表
 class Solution:
     def copyRandomList(self, head: 'Node') -> 'Node':
+        if not head: return
         dic = {}
         cur = head
         while cur:

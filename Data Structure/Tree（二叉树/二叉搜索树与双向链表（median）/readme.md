@@ -8,3 +8,5 @@ def dfs(root):
     dfs(root.left)  # 左
     print(root.val) # 根
     dfs(root.right) # 右
+    
+还需加强理解！！！

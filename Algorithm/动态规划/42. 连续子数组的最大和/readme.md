@@ -1,0 +1,1 @@
+![](https://github.com/ymzeng1/-offer/blob/main/Algorithm/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/42.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/Screenshot%202021-05-20%20122141.png)
